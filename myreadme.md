@@ -1,1 +1,2 @@
 # hello world
+https://www.learnpytorch.io/00_pytorch_fundamentals/
